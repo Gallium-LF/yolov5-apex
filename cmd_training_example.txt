@@ -1,0 +1,1 @@
+python train.py --data .\data\shock_absorber.yaml --weights .\pretrained\yolov5s.pt --epochs 1 --batch-size 4 --name testSArun1 --cfg .\models\shock_absorber_yolov5s.yaml
